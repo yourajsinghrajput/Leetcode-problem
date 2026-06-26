@@ -11,6 +11,7 @@ Collection of DSA questions solved in Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [1200-minimum-absolute-difference](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1552-magnetic-force-between-two-balls) |
@@ -29,6 +30,7 @@ Collection of DSA questions solved in Java
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
