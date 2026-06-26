@@ -6,6 +6,7 @@ Collection of DSA questions solved in Java
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -46,5 +47,6 @@ Collection of DSA questions solved in Java
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0001-two-sum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2956-find-common-elements-between-two-arrays) |
 <!---LeetCode Topics End-->
