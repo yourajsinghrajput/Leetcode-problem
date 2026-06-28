@@ -17,6 +17,7 @@ Collection of DSA questions solved in Java
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1552-magnetic-force-between-two-balls) |
@@ -62,6 +63,7 @@ Collection of DSA questions solved in Java
 | [0001-two-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Divide and Conquer
 |  |
