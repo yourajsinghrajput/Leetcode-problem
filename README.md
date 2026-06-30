@@ -8,6 +8,7 @@ Collection of DSA questions solved in Java
 | ------- |
 | [0001-two-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -36,6 +37,7 @@ Collection of DSA questions solved in Java
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -107,6 +109,7 @@ Collection of DSA questions solved in Java
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
