@@ -20,6 +20,7 @@ Collection of DSA questions solved in Java
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
@@ -103,4 +104,12 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
