@@ -7,6 +7,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
@@ -43,6 +44,7 @@ Collection of DSA questions solved in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0189-rotate-array) |
@@ -50,6 +52,7 @@ Collection of DSA questions solved in Java
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
