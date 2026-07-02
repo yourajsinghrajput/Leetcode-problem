@@ -18,6 +18,7 @@ Collection of DSA questions solved in Java
 | [0136-single-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0303-range-sum-query-immutable) |
@@ -33,6 +34,7 @@ Collection of DSA questions solved in Java
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
@@ -84,6 +86,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -117,6 +120,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
