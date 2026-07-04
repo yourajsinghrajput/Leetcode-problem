@@ -10,6 +10,7 @@ Collection of DSA questions solved in Java
 | [0015-3sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0118-pascals-triangle) |
@@ -122,11 +123,13 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
