@@ -21,6 +21,7 @@ Collection of DSA questions solved in Java
 | [0136-single-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -105,6 +107,7 @@ Collection of DSA questions solved in Java
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 ## Bit Manipulation
 |  |
@@ -122,6 +125,7 @@ Collection of DSA questions solved in Java
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 ## Matrix
 |  |
