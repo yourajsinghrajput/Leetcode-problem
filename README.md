@@ -22,6 +22,7 @@ Collection of DSA questions solved in Java
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0283-move-zeroes) |
@@ -108,6 +109,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 ## Bit Manipulation
 |  |
