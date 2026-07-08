@@ -35,6 +35,7 @@ Collection of DSA questions solved in Java
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -128,10 +129,12 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
