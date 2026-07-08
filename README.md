@@ -9,6 +9,7 @@ Collection of DSA questions solved in Java
 | [0001-two-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0054-spiral-matrix) |
@@ -61,6 +62,7 @@ Collection of DSA questions solved in Java
 | ------- |
 | [0011-container-with-most-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
@@ -70,6 +72,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
