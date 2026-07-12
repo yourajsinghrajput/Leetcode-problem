@@ -29,6 +29,7 @@ Collection of DSA questions solved in Java
 | [0238-product-of-array-except-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0303-range-sum-query-immutable) |
@@ -85,6 +86,7 @@ Collection of DSA questions solved in Java
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0274-h-index) |
 | [1200-minimum-absolute-difference](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
@@ -172,4 +174,8 @@ Collection of DSA questions solved in Java
 | [0289-game-of-life](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
