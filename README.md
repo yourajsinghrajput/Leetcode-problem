@@ -39,6 +39,7 @@ Collection of DSA questions solved in Java
 | [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
@@ -53,6 +54,7 @@ Collection of DSA questions solved in Java
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1552-magnetic-force-between-two-balls) |
