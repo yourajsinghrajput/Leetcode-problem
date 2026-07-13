@@ -13,6 +13,7 @@ Collection of DSA questions solved in Java
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
@@ -93,6 +94,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -116,6 +118,7 @@ Collection of DSA questions solved in Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
