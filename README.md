@@ -49,6 +49,7 @@ Collection of DSA questions solved in Java
 | [1539-kth-missing-positive-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
@@ -164,6 +165,7 @@ Collection of DSA questions solved in Java
 | [0209-minimum-size-subarray-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Matrix
 |  |
 | ------- |
