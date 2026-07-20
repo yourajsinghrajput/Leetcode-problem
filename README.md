@@ -7,6 +7,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0016-3sum-closest) |
@@ -56,6 +57,7 @@ Collection of DSA questions solved in Java
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
@@ -130,6 +132,7 @@ Collection of DSA questions solved in Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
