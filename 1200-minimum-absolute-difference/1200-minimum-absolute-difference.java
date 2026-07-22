@@ -1,4 +1,4 @@
-/*class Solution {
+class Solution {
     public List<List<Integer>> minimumAbsDifference(int[] arr) {
      Arrays.sort(arr);
      List<List<Integer>> ans =new ArrayList<>();
@@ -16,8 +16,8 @@
      }
      return ans;
     }
-}*/
-class Solution {
+}
+/*class Solution {
     public List<List<Integer>> minimumAbsDifference(int[] arr){
    Arrays.sort(arr);
         List<List<Integer>> ans = new ArrayList<>();
@@ -41,4 +41,4 @@ class Solution {
         return ans;
 
     }
-}
+}*/
