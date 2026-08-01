@@ -1,22 +1,31 @@
 class Solution {
     public int minSwaps(int[] nums) {
-        int n = nums.length;
         int totalOnes = 0;
         for (int num : nums) {
-            totalOnes += num;
+            if (num == 1) {
+                totalOnes++;
+            }
         }
-        if (totalOnes <= 1) {
+        if (totalOnes == 0) {
             return 0;
         }
-        int currOnes = 0;
+        int currentOnes = 0;
         for (int i = 0; i < totalOnes; i++) {
-            currOnes += nums[i];
+            if (nums[i] == 1) {
+                currentOnes++;
+            }
         }
-        int maxOnes = currOnes;
+        int maxOnes = currentOnes;
+        int n = nums.length;
+
         for (int i = totalOnes; i < n + totalOnes; i++) {
-            currOnes += nums[i % n];
-            currOnes -= nums[(i - totalOnes) % n];
-            maxOnes = Math.max(maxOnes, currOnes);
+            if (nums[(i - totalOnes) % n] == 1) {
+                currentOnes--;
+            }
+            if (nums[i % n] == 1) {
+                currentOnes++;
+            }
+            maxOnes = Math.max(maxOnes, currentOnes);
         }
         return totalOnes - maxOnes;
     }
