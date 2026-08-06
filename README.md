@@ -47,6 +47,7 @@ Collection of DSA questions solved in Java
 | [0643-maximum-average-subarray-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -69,6 +70,7 @@ Collection of DSA questions solved in Java
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -214,4 +216,8 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
