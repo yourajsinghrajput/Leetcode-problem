@@ -44,6 +44,7 @@ Collection of DSA questions solved in Java
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0498-diagonal-traverse) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
@@ -70,6 +71,7 @@ Collection of DSA questions solved in Java
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
