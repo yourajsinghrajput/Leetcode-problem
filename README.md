@@ -69,6 +69,7 @@ Collection of DSA questions solved in Java
 | [0209-minimum-size-subarray-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
@@ -83,6 +84,7 @@ Collection of DSA questions solved in Java
 | [0048-rotate-image](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
