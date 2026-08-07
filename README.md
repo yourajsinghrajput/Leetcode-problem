@@ -48,6 +48,7 @@ Collection of DSA questions solved in Java
 | [0643-maximum-average-subarray-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
+| [0845-longest-mountain-in-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
@@ -101,6 +102,7 @@ Collection of DSA questions solved in Java
 | [0189-rotate-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
+| [0845-longest-mountain-in-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0845-longest-mountain-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Collection of DSA questions solved in Java
 | [0119-pascals-triangle-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0845-longest-mountain-in-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -224,4 +227,8 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0852-peak-index-in-a-mountain-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
