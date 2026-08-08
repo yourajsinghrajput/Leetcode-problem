@@ -231,4 +231,8 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0845-longest-mountain-in-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
