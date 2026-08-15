@@ -58,6 +58,7 @@ Collection of DSA questions solved in Java
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1552-magnetic-force-between-two-balls) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2104-sum-of-subarray-ranges](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2104-sum-of-subarray-ranges) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -132,11 +133,13 @@ Collection of DSA questions solved in Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0845-longest-mountain-in-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0845-longest-mountain-in-array) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Hash Table
 |  |
 | ------- |
