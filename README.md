@@ -59,6 +59,7 @@ Collection of DSA questions solved in Java
 | [1539-kth-missing-positive-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2104-sum-of-subarray-ranges](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2104-sum-of-subarray-ranges) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
@@ -181,12 +182,14 @@ Collection of DSA questions solved in Java
 | [0042-trapping-rain-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
+| [2104-sum-of-subarray-ranges](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
+| [2104-sum-of-subarray-ranges](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Sliding Window
 |  |
 | ------- |
