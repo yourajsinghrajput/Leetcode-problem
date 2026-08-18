@@ -170,6 +170,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Collection of DSA questions solved in Java
 | [0042-trapping-rain-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -195,6 +197,7 @@ Collection of DSA questions solved in Java
 | [0042-trapping-rain-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Sliding Window
 |  |
@@ -252,4 +255,8 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0075-sort-colors) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
