@@ -13,6 +13,7 @@ Collection of DSA questions solved in Java
 | [0016-3sum-closest](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0053-maximum-subarray) |
@@ -70,6 +71,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
