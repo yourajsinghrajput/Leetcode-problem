@@ -40,6 +40,7 @@ Collection of DSA questions solved in Java
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0303-range-sum-query-immutable) |
@@ -77,6 +78,7 @@ Collection of DSA questions solved in Java
 | [0209-minimum-size-subarray-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0275-h-index-ii) |
 | [0367-valid-perfect-square](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
