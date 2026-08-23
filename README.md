@@ -47,6 +47,7 @@ Collection of DSA questions solved in Java
 | [0303-range-sum-query-immutable](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
@@ -225,6 +226,7 @@ Collection of DSA questions solved in Java
 | [0074-search-a-2d-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0289-game-of-life) |
+| [0463-island-perimeter](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 ## Simulation
@@ -274,4 +276,12 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
