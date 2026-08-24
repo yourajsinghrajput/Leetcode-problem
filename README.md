@@ -62,6 +62,7 @@ Collection of DSA questions solved in Java
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
@@ -238,6 +239,7 @@ Collection of DSA questions solved in Java
 | [0733-flood-fill](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -295,4 +297,5 @@ Collection of DSA questions solved in Java
 | ------- |
 | [0463-island-perimeter](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
