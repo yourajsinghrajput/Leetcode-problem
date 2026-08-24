@@ -24,6 +24,7 @@ Collection of DSA questions solved in Java
 | [0075-sort-colors](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
@@ -140,6 +141,7 @@ Collection of DSA questions solved in Java
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -199,6 +201,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0901-online-stock-span) |
@@ -207,6 +210,7 @@ Collection of DSA questions solved in Java
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0901-online-stock-span) |
@@ -226,6 +230,7 @@ Collection of DSA questions solved in Java
 | [0054-spiral-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0463-island-perimeter) |
