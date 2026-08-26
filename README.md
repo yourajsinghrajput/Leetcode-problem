@@ -46,6 +46,7 @@ Collection of DSA questions solved in Java
 | [0283-move-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0303-range-sum-query-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0463-island-perimeter) |
@@ -86,6 +87,7 @@ Collection of DSA questions solved in Java
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0275-h-index-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
@@ -175,6 +177,7 @@ Collection of DSA questions solved in Java
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -298,4 +301,24 @@ Collection of DSA questions solved in Java
 | [0463-island-perimeter](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
