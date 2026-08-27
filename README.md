@@ -48,6 +48,7 @@ Collection of DSA questions solved in Java
 | [0303-range-sum-query-immutable](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0496-next-greater-element-i) |
@@ -89,6 +90,7 @@ Collection of DSA questions solved in Java
 | [0275-h-index-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0275-h-index-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -136,6 +138,7 @@ Collection of DSA questions solved in Java
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [1200-minimum-absolute-difference](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1552-magnetic-force-between-two-balls) |
@@ -237,6 +240,7 @@ Collection of DSA questions solved in Java
 | [0085-maximal-rectangle](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0733-flood-fill) |
@@ -259,6 +263,7 @@ Collection of DSA questions solved in Java
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
