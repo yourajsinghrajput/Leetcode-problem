@@ -63,6 +63,7 @@ Collection of DSA questions solved in Java
 | [0852-peak-index-in-a-mountain-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
+| [0969-pancake-sorting](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0969-pancake-sorting) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
@@ -124,6 +125,7 @@ Collection of DSA questions solved in Java
 | [0283-move-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0845-longest-mountain-in-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0845-longest-mountain-in-array) |
+| [0969-pancake-sorting](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0969-pancake-sorting) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Collection of DSA questions solved in Java
 | [0347-top-k-frequent-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0658-find-k-closest-elements) |
+| [0969-pancake-sorting](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0969-pancake-sorting) |
 | [1200-minimum-absolute-difference](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
@@ -159,6 +162,7 @@ Collection of DSA questions solved in Java
 | ------- |
 | [0011-container-with-most-water](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0969-pancake-sorting](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0969-pancake-sorting) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Hash Table
 |  |
