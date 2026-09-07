@@ -1,4 +1,45 @@
-class Solution {
+class Solution{
+    public int maxProfit(int[]prices){
+        int minPrice=Integer.MAX_VALUE;
+        int maxProfit=0;
+
+        for(int price:prices){
+           if(price<minPrice){
+            minPrice=price;
+           } 
+           else if(price -minPrice>maxProfit){
+            maxProfit = price-minPrice;
+           }
+        }
+        return maxProfit;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*class Solution {
     public int maxProfit(int[] prices) {
     int minPrice=prices[0];
       int maxProfit=0;
@@ -13,7 +54,7 @@ class Solution {
       }
       return maxProfit;
     }
-}
+}*/
 
 
 
