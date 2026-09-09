@@ -38,6 +38,7 @@ Collection of DSA questions solved in Java
 | [0189-rotate-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@ Collection of DSA questions solved in Java
 | [0088-merge-sorted-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
@@ -170,6 +172,7 @@ Collection of DSA questions solved in Java
 | [0001-two-sum](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yourajsinghrajput/Leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
